@@ -1,0 +1,5 @@
+obj/
+dex/
+*.apk
+*.apk.idsig
+debug.keystore

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickBall</string>
+    <string name="accessibility_desc">QuickBall 使用此服务实现截屏功能</string>
+</resources>
